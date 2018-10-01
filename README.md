@@ -26,7 +26,9 @@ Target Android SDK: 28
 
 # Screenshots
 ![Main UI](https://github.com/MahakAggarwal/Android_Simple_Calculator/blob/master/Images/Main%20UI.png)
+
 ![Calculation being performed 1](https://github.com/MahakAggarwal/Android_Simple_Calculator/blob/master/Images/Operation%201.png)
+
 ![Calculation being performed 2](https://github.com/MahakAggarwal/Android_Simple_Calculator/blob/master/Images/Result%201.png)
 
 
